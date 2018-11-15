@@ -1,0 +1,13 @@
+body{
+	background-color: bisque;
+}
+#form{
+	background-color: #fffff;
+	padding: 10px;
+	margin: auto;
+}
+.footer{
+	background-color: silver;
+	min-height: 50px;
+	padding: 10px 0px 10px 0px;
+}
